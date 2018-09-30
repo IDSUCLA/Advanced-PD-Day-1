@@ -1,0 +1,29 @@
+---
+title: "Match the Graph - Answer Sheet"
+output: word_document
+---
+
+**Directions**: For each plot in the _Match the Graph - Question Sheet_, write the code needed to create an exact replica of the plot in the code chunks below.
+
+## Graph 1
+
+```{r}
+
+```
+
+
+## Graph 2
+
+```{r}
+
+```
+
+
+## Graph 3
+
+```{r}
+
+```
+
+
+## Graph 4
