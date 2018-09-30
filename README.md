@@ -11,3 +11,5 @@ To obtain these files, open your RStudio Server and then click:
 3. Git
 4. Paste the URL: https://github.com/IDSUCLA/Advanced-PD-Day-1 into the form
 5. Click "Create Project" button
+
+
