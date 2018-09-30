@@ -3,13 +3,15 @@ title: "Match the Graph - Answer Sheet"
 output: word_document
 ---
 
-**Directions**: For each plot in the _Match the Graph - Question Sheet_, write the code needed to create an exact replica of the plot in the code chunks below.
+**Directions**: For each plot in the _Match the Graph - Question Sheet_, write the code needed to create an exact replica of the plot in the code chunks below. After you recreate each plot, write an interpretation below the code chunk.
 
 ## Graph 1
 
 ```{r}
 
 ```
+
+**Interpretation**:
 
 
 ## Graph 2
@@ -18,6 +20,8 @@ output: word_document
 
 ```
 
+**Interpretation**:
+
 
 ## Graph 3
 
@@ -25,5 +29,14 @@ output: word_document
 
 ```
 
+**Interpretation**:
+
 
 ## Graph 4
+
+```{r}
+
+```
+
+**Interpretation**:
+
